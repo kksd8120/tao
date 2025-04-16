@@ -1,0 +1,3 @@
+org.tao.common.encrypt.config.EncryptorAutoConfiguration
+org.tao.common.encrypt.config.ApiDecryptAutoConfiguration
+
