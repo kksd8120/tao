@@ -1,0 +1,5 @@
+org.tao.common.web.config.CaptchaConfig
+org.tao.common.web.config.FilterConfig
+org.tao.common.web.config.I18nConfig
+org.tao.common.web.config.ResourcesConfig
+org.tao.common.web.config.UndertowConfig
