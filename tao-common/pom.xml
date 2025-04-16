@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>tao</artifactId>
+        <groupId>org.tao</groupId>
+        <version>${revision}</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <modules>
+        <module>tao-common-bom</module>
+        <module>tao-common-social</module>
+        <module>tao-common-core</module>
+        <module>tao-common-doc</module>
+        <module>tao-common-excel</module>
+        <module>tao-common-idempotent</module>
+        <module>tao-common-job</module>
+        <module>tao-common-log</module>
+        <module>tao-common-mail</module>
+        <module>tao-common-mybatis</module>
+        <module>tao-common-oss</module>
+        <module>tao-common-ratelimiter</module>
+        <module>tao-common-redis</module>
+        <module>tao-common-satoken</module>
+        <module>tao-common-security</module>
+        <module>tao-common-sms</module>
+        <module>tao-common-web</module>
+        <module>tao-common-translation</module>
+        <module>tao-common-sensitive</module>
+        <module>tao-common-json</module>
+        <module>tao-common-encrypt</module>
+        <module>tao-common-tenant</module>
+        <module>tao-common-websocket</module>
+        <module>tao-common-sse</module>
+    </modules>
+
+    <artifactId>tao-common</artifactId>
+    <packaging>pom</packaging>
+
+    <description>
+        common 通用模块
+    </description>
+
+</project>
